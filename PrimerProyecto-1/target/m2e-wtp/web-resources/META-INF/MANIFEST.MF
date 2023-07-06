@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: PrimerProyecto-1
+Implementation-Version: Curso de back end para java
+Created-By: Maven Integration for Eclipse
+
